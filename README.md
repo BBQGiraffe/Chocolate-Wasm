@@ -7,7 +7,7 @@ Chocolate-Wasm is a fork of Wasm-Doom
 
 * Hexen/Heretic and Strife support.
 * Ability to drag and drop config file
-* Adding back OPL emulation, this was removed from Wasm-Doom due to performace issues.
+
 
 
 
