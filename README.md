@@ -1,4 +1,16 @@
-# WebAssembly DOOM
+# Chocolate-Wasm
+
+Chocolate-Wasm is a fork of Wasm-Doom
+
+
+## Planned features:
+
+* Hexen/Heretic and Strife support, this was in the original Chocolate Doom but was removed.
+* Ability to drag and drop config file
+* Adding back OPL emulation, this was removed from Wasm-Doom due to performace issues.
+
+
+
 
 DOOM® is a registered trademark of ZeniMax Media Inc. in the US and/or
 other countries. Id Software® is a registered trademark of ZeniMax Media
